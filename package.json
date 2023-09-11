@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cucumber": "^6.0.7",
+    "cypress-cucumber-preprocessor": "^4.3.1",
+    "it": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/cypress": "^1.1.3",
+    "cypress": "^13.1.0",
+    "cypress-xpath": "^2.0.1",
+    "mochawesome": "^7.1.3"
+  },
+
+    "reporter": "mochawesome"
+  
+  
+}
